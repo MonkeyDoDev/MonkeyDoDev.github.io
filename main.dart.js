@@ -92166,7 +92166,7 @@ A.Pq.prototype={
 J(a){var s=this,r=null,q=Math.min(s.x,400),p=A.a([s.e,s.f],t.t_)
 return new A.bk(B.Hj,A.f7(r,A.e_(r,new A.bk(B.ca,A.jm(A.a88(B.A,A.aQ(A.dz(s.c," ","\n"),r,r,r,A.jx(s.d,s.w,B.an,1),B.bH,r),B.o,B.fc),r,r),r),B.o,r,r,new A.cA(r,r,r,r,r,new A.l5(B.A,0.5,B.av,r,0,p,r,r),B.af),r,q,r,r,r,r,q),B.M,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.r,r,r,r),r)}}
 A.Sq.prototype={
-J(a){var s=null,r=Math.min(A.bJ(a,s,t.w).w.a.a,1200),q=A.c3()?800:890,p=r>820?A.aQ("MonkeyDoDev",s,s,s,A.axr(B.j,60,B.an),s,s):B.Q,o=t.p
+J(a){var s=null,r=Math.min(A.bJ(a,s,t.w).w.a.a,1200),q=A.c3()?820:890,p=r>820?A.aQ("MonkeyDoDev",s,s,s,A.axr(B.j,60,B.an),s,s):B.Q,o=t.p
 return A.cN(A.fl(A.a([new A.bk(B.n1,A.fl(A.a([new A.bk(B.iV,A.jU(A.a([p,new A.Ln(this.c,s)],o),B.ct,B.jM,B.U),s),B.ku,B.Rr,B.kt,B.Ro,B.kt,B.Rn,B.kt,B.Rm],o),B.ct,B.a3,B.U),s),A.cN(s,r/8,s)],o),B.W,B.a3,B.U),q,s)}}
 A.Ln.prototype={
 J(a){var s=null,r=$.aAA()
@@ -92260,7 +92260,7 @@ a1=A.rm(a4,a4,B.a5,a4,a4,!0,a4,A.by(A.a([b,a,a0,A.by(a4,a2,a1,"UK data protectio
 a2=a9.GF(B.iA,B.an)
 a0=A.DV(a4,a4)
 a0.ba=new A.a3U()
-return A.CR(a5,new A.fG(B.ia,a4,a4,A.cN(A.aic(new A.bk(B.n1,A.fl(A.a([a6,a8,B.GO,B.dr,b0,B.dr,b2,B.bG,b3,B.dr,b4,B.bG,b5,B.w,b6,B.bG,b7,B.w,b9,c0,B.hE,c1,c2,B.C9,B.C6,B.hE,c3,B.Cb,B.Cc,B.hE,c4,B.w,c5,B.bG,c6,B.w,c7,B.bG,c8,B.w,a7,B.bG,s,B.w,r,B.w,q,B.C5,B.C7,B.Ca,B.C8,B.w,p,B.I7,B.I5,B.I8,B.I4,B.I6,B.w,o,B.I3,B.w,n,B.bG,m,B.w,l,B.bG,k,B.w,j,B.bG,i,B.w,b8,B.bG,h,B.w,g,B.I2,B.w,f,B.w,e,B.w,d,B.w,c,B.hF,a1,B.hF,A.rm(a4,a4,B.a5,a4,a4,!0,a4,A.by(A.a([B.SX,A.by(a4,a0,a2,"Federal Data Protection And Information Commissioner")],a3),a4,a9,a4),B.au,a4,a4,1,B.R),B.I9,B.w,A.aQ("Updates to this privacy policy",a4,a4,a4,b1,a4,a4),B.w,A.aQ("We may update this privacy policy from time to time in response to changing legal, technical or business developments. When we update our privacy policy we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.\n\nYou can see when this Privacy Notice was last updated by checking the \u2018updated on\u2019 data displayed at the top of this privacy notice.",a4,a4,a4,a9,a4,a4),B.w,A.aQ("How to contact us",a4,a4,a4,b1,a4,a4),B.w,A.aQ("If you have any questions or concerns about our use of your personal information, please contact us as info@monkeydo.dev. The data controller of our personal information is Alexander Cretney Limited",a4,a4,a4,a9,a4,a4)],t.p),B.ct,B.a3,B.U),a4),a4),a4,680),a4),a4,!1)}}
+return A.CR(a5,new A.fG(B.ia,a4,a4,A.cN(A.aic(new A.bk(B.n1,A.fl(A.a([a6,a8,B.GO,B.dr,b0,B.dr,b2,B.bG,b3,B.dr,b4,B.bG,b5,B.w,b6,B.bG,b7,B.w,b9,c0,B.hE,c1,c2,B.C9,B.C6,B.hE,c3,B.Cb,B.Cc,B.hE,c4,B.w,c5,B.bG,c6,B.w,c7,B.bG,c8,B.w,a7,B.bG,s,B.w,r,B.w,q,B.C5,B.C7,B.Ca,B.C8,B.w,p,B.I7,B.I5,B.I8,B.I4,B.I6,B.w,o,B.I3,B.w,n,B.bG,m,B.w,l,B.bG,k,B.w,j,B.bG,i,B.w,b8,B.bG,h,B.w,g,B.I2,B.w,f,B.w,e,B.w,d,B.w,c,B.hF,a1,B.hF,A.rm(a4,a4,B.a5,a4,a4,!0,a4,A.by(A.a([B.SX,A.by(a4,a0,a2,"Federal Data Protection And Information Commissioner")],a3),a4,a9,a4),B.au,a4,a4,1,B.R),B.I9,B.w,A.aQ("Updates to this privacy policy",a4,a4,a4,b1,a4,a4),B.w,A.aQ("We may update this privacy policy from time to time in response to changing legal, technical or business developments. When we update our privacy policy we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.\n\nYou can see when this Privacy Notice was last updated by checking the \u2018updated on\u2019 data displayed at the top of this privacy notice.",a4,a4,a4,a9,a4,a4),B.w,A.aQ("How to contact us",a4,a4,a4,b1,a4,a4),B.w,A.aQ("If you have any questions or concerns about our use of your personal information, please contact us as info@monkeydo.dev. The data controller of our personal information is Alexander Cretney Limited",a4,a4,a4,a9,a4,a4),B.w],t.p),B.ct,B.a3,B.U),a4),a4),a4,680),a4),a4,!1)}}
 A.a3S.prototype={
 $0(){return A.Jd(A.cT("https://ec.europa.eu/newsroom/article29/items/612080/en",0,null))},
 $S:0}
@@ -99049,7 +99049,7 @@ s($,"b4i","aAA",()=>A.axr(B.j,20,B.cb))
 s($,"b4p","aAD",()=>A.axr(B.j,50,B.cb))
 s($,"b4h","aLX",()=>A.jx(B.j,16,B.at,null))
 s($,"b4m","aM0",()=>A.jx(null,60,B.d9,null))
-s($,"b4j","aLY",()=>A.jx(B.jP.gKT(),34,B.an,null))
+s($,"b4j","aLY",()=>A.jx(B.jP.gKT(),34,B.an,1.2))
 s($,"b4k","aLZ",()=>A.jx(B.jP.gKT(),20,B.cb,null))
 s($,"b4l","aM_",()=>A.jx(B.jP.ga_T(),18,B.at,null))
 s($,"b4g","a2e",()=>A.jx(null,16,B.at,null))
